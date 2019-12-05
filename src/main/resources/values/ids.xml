@@ -1,0 +1,4 @@
+<resources>
+    <item name="id_button" type="id" />
+    <item name="id_label" type="id" />
+</resources>
